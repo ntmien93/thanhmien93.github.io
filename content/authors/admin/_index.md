@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Nguyễn Thành Miên
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Thanh Mien Nguyen
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Thanh Mien
+last_name: Nguyen
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Researcher Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,25 +31,21 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'nguyenthanhmien93@gmai.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: thanhmien93.github.io
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/thanh-mien-nguyen-1b7559198/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url:  https://scholar.google.com/citations?hl=ko&user=6IHXcUwAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-8137-4455
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+ - SERS-based cancer diagnostics
+ - M13 bacteriophage engineering
+ - Plasmonic color sensors
+ - Machine learning in healthcare
 
 education:
   - area: PhD Artificial Intelligence
